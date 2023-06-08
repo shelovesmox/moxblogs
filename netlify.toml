@@ -1,5 +1,5 @@
 [build]
-publish = "themes"
+publish = "public"
 command = "hugo --gc --minify"
 
 [context.production.environment]
